@@ -1,5 +1,5 @@
 # Sumokoin
-dvvv
+dvvvdsfvvvv
 Copyright (c) 2017-2021, Sumokoin Projects
 
 Portions Copyright (c) 2014-2021, The Monero Project
