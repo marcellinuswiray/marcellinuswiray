@@ -2,6 +2,10 @@
 
 **Sumokoin** is a privacy-centric cryptocurrency forked from [Monero](https://github.com/monero-project/monero), built on the CryptoNote protocol. It is designed to provide untraceable, unlinkable, and fungible digital transactions.
 
+> **Note:** This is a test modification to demonstrate file update tracking and diff display functionality.
+
+---
+
 ## Table of Contents
 
 - [About](#about)
@@ -19,7 +23,12 @@
 
 ## About
 
-Sumokoin leverages the CryptoNote technology with ring signatures, stealth addresses, and RingCT to ensure financial privacy. It uses the LMDB database for blockchain storage and supports a wide range of platforms and architectures.
+**Sumokoin** leverages the CryptoNote technology with advanced cryptographic features:
+- **Ring Signatures** — Hide sender identity among a group of possible signers
+- **Stealth Addresses** — Protect recipient privacy with one-time addresses
+- **RingCT (Ring Confidential Transactions)** — Conceal transaction amounts
+
+It uses the **LMDB database** for efficient blockchain storage and supports a wide range of platforms and architectures.
 
 ## Features
 
