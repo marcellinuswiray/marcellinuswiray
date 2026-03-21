@@ -2,10 +2,6 @@
 
 **Sumokoin** is a privacy-centric cryptocurrency forked from [Monero](https://github.com/monero-project/monero), built on the CryptoNote protocol. It is designed to provide untraceable, unlinkable, and fungible digital transactions.
 
-> **Note:** This is a test modification to demonstrate file update tracking and diff display functionality.
-
----
-
 ## Table of Contents
 
 - [About](#about)
