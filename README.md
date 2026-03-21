@@ -7,6 +7,8 @@
 [![GitHub followers](https://img.shields.io/github/followers/marcellinuswiray?style=social)](https://github.com/marcellinuswiray)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/marcellinuswiray)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Building+the+future+with+code;Open+source+enthusiast;Always+learning+new+things)](https://git.io/typing-svg)
+
 </div>
 
 ---
@@ -15,12 +17,12 @@
 
 Passionate software engineer with expertise in full-stack development, blockchain technology, and systems programming. I specialize in building high-performance, scalable applications using modern tech stacks and contribute actively to open-source projects.
 
-- 🔭 Currently developing **privacy-focused cryptocurrency solutions** and cross-platform build systems
-- 🌱 Deep diving into **distributed systems architecture**, Rust, and cloud-native technologies
-- 💡 Core interests: **Blockchain/Cryptocurrency**, **Systems Programming (C/C++/Go)**, **DevOps & CI/CD automation**
+- 🔭 Currently building **privacy-focused crypto solutions**, cross-platform build systems & decentralized apps
 - 🛠️ Experienced with multi-platform compilation, CMake toolchains, and secure coding practices
 - 🤝 Open to collaboration on **blockchain**, **systems software**, and **infrastructure projects**
 - 📫 Let's connect: **[marcellinuswiray@example.com](mailto:marcellinuswiray@example.com)**
+- 📍 Based in **Indonesia** | Open to remote opportunities worldwide
+- ⚡ Fun fact: I debug with `print()` before reaching for the debugger
 
 ---
 
@@ -79,12 +81,8 @@ Passionate software engineer with expertise in full-stack development, blockchai
   - CMake-based build system with extensive architecture support
   - Security-hardened compilation with modern C++17 standards
 
-### 🌐 Web Development
-- Coming soon... Stay tuned for exciting projects!
-
-### 🔧 Systems & Tools
-- Cross-compilation toolchains and build automation
-- CI/CD pipeline implementations
+### 🌐 Web & Systems
+- Full-stack web apps, cross-compilation toolchains, and CI/CD pipeline automation
 
 ---
 
@@ -107,7 +105,10 @@ Passionate software engineer with expertise in full-stack development, blockchai
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- Coming soon...
+- 🔐 Understanding Zero-Knowledge Proofs in Blockchain Privacy
+- 🏗️ Building Cross-Platform C++ Projects with CMake: A Practical Guide
+- 🐳 Docker Multi-Stage Builds for Optimized Production Images
+- 🦀 Why I'm Learning Rust in 2026
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -127,14 +128,6 @@ Passionate software engineer with expertise in full-stack development, blockchai
 
 <div align="center">
 
-### 💬 Quote of the Day
-
-*"Code is like humor. When you have to explain it, it's bad."* – Cory House
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=marcellinuswiray&color=brightgreen&style=flat-square)
-
-**Thanks for visiting! Feel free to explore my repositories and don't hesitate to reach out!**
+![Profile Views](https://komarev.com/ghpvc/?username=marcellinuswiray&color=brightgreen&style=flat-square) • *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
 </div>
