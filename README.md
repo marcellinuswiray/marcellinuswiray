@@ -1,170 +1,139 @@
-# Sumokoin
+<div align="center">
 
-**Sumokoin** is a privacy-centric cryptocurrency forked from [Monero](https://github.com/monero-project/monero), built on the CryptoNote protocol. It is designed to provide untraceable, unlinkable, and fungible digital transactions.
+# Hi there, I'm Marcellinus Wiray 👋
 
-## Table of Contents
+### Software Engineer | Full-Stack Developer | Tech Enthusiast
 
-- [About](#about)
-- [Features](#features)
-- [Dependencies](#dependencies)
-- [Building from Source](#building-from-source)
-  - [Linux (Ubuntu/Debian)](#linux-ubuntudebian)
-  - [macOS](#macos)
-  - [Windows (MSYS2/MinGW)](#windows-msys2mingw)
-  - [Android](#android)
-  - [iOS](#ios)
-  - [Cross-compilation (using depends)](#cross-compilation-using-depends)
-- [Build Targets](#build-targets)
-- [License](#license)
+[![GitHub followers](https://img.shields.io/github/followers/marcellinuswiray?style=social)](https://github.com/marcellinuswiray)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/marcellinuswiray)
 
-## About
+</div>
 
-**Sumokoin** leverages the CryptoNote technology with advanced cryptographic features:
-- **Ring Signatures** — Hide sender identity among a group of possible signers
-- **Stealth Addresses** — Protect recipient privacy with one-time addresses
-- **RingCT (Ring Confidential Transactions)** — Conceal transaction amounts
+---
 
-It uses the **LMDB database** for efficient blockchain storage and supports a wide range of platforms and architectures.
+## 🚀 About Me
 
-## Features
+I'm a passionate software engineer focused on building scalable applications and exploring cutting-edge technologies. I enjoy solving complex problems and contributing to open-source projects.
 
-- **Privacy by default** — Ring signatures, stealth addresses, and RingCT
-- **CryptoNote protocol** — Proven cryptographic foundation
-- **LMDB database** — Fast and reliable blockchain storage
-- **Multi-platform** — Linux, Windows, macOS, FreeBSD, OpenBSD, DragonFly BSD, Android, iOS
-- **Multi-architecture** — x86-64, ARM (v6/v7/v8/aarch64), POWER (ppc64le/ppc64/ppc), s390x
-- **Security hardened** — Stack protector, ASLR, RELRO, and other compile-time protections
+- 🔭 Currently working on innovative software solutions
+- 🌱 Continuously learning new technologies and best practices
+- 💡 Interested in blockchain, distributed systems, and modern web development
+- 🤝 Open to collaboration on interesting projects
+- 📫 Reach me at: **[your-email@example.com]**
 
-## Dependencies
+---
 
-| Dependency       | Min. Version | Purpose                          |
-|------------------|--------------|----------------------------------|
-| GCC              | 7.0          | C/C++ compiler                   |
-| Clang (alt.)     | 8.0          | C/C++ compiler                   |
-| CMake            | 3.5          | Build system                     |
-| Boost            | 1.62         | System, filesystem, thread, etc. |
-| OpenSSL          | —            | SHA-256, SSL/TLS                 |
-| libzmq           | —            | ZeroMQ messaging                 |
-| libunbound       | —            | DNS resolution                   |
-| libsodium        | —            | Cryptography                     |
-| HIDAPI           | —            | Hardware wallet support           |
-| GNU Readline     | —            | Interactive CLI (optional)       |
+## 🛠️ Tech Stack
 
-> **Note:** Building Sumokoin requires at least **3.5 GB** of available memory (physical + virtual).
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 
-### Installing dependencies on Ubuntu/Debian
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 
-```bash
-sudo apt update && sudo apt install -y \
-  build-essential cmake git pkg-config \
-  libboost-all-dev libssl-dev libzmq3-dev \
-  libunbound-dev libsodium-dev libhidapi-dev \
-  libreadline-dev libpgm-dev
-```
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-### Installing dependencies on macOS
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-```bash
-brew install cmake boost openssl zmq libsodium hidapi readline
-```
+---
 
-## Building from Source
+## 📊 GitHub Stats
 
-### Linux (Ubuntu/Debian)
+<div align="center">
 
-```bash
-git clone --recursive https://github.com/marcellinuswiray/marcellinuswiray.git
-cd marcellinuswiray
-make release -j$(nproc)
-```
+![Marcellinus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcellinuswiray&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-The resulting binaries will be in `build/<platform>/release/bin/`.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcellinuswiray&layout=compact&theme=radical&hide_border=true)
 
-### macOS
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marcellinuswiray&theme=radical&hide_border=true)
 
-```bash
-git clone --recursive https://github.com/marcellinuswiray/marcellinuswiray.git
-cd marcellinuswiray
-make release-static-mac-x86_64
-```
+</div>
 
-### Windows (MSYS2/MinGW)
+---
 
-**64-bit:**
-```bash
-make release-static-win64
-```
+## 🔥 Featured Projects
 
-**32-bit:**
-```bash
-make release-static-win32
-```
+### 🪙 Cryptocurrency & Blockchain
+- **Sumokoin Build System** - Multi-platform build configuration for privacy-focused cryptocurrency
+  - Cross-platform support (Linux, macOS, Windows, Android, iOS)
+  - CMake-based build system with extensive architecture support
+  - Security-hardened compilation with modern C++17 standards
 
-### Android
+### 🌐 Web Development
+- Coming soon... Stay tuned for exciting projects!
 
-**ARMv7:**
-```bash
-make release-static-android-armv7
-```
+### 🔧 Systems & Tools
+- Cross-compilation toolchains and build automation
+- CI/CD pipeline implementations
 
-**ARMv8 (arm64):**
-```bash
-make release-static-android-armv8
-```
+---
 
-> Set the `ANDROID_STANDALONE_TOOLCHAIN_PATH` environment variable to your Android NDK standalone toolchain path (default: `/usr/local/toolchain`).
+## 📈 Activity Graph
 
-### iOS
+[![Marcellinus's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=marcellinuswiray&theme=react-dark&hide_border=true)](https://github.com/marcellinuswiray)
 
-Build with CMake using the iOS toolchain:
+---
 
-```bash
-mkdir -p build/ios && cd build/ios
-cmake -D IOS=ON -D ARCH=arm64 -D IOS_PLATFORM=OS ../..
-make
-```
+## 🏆 GitHub Trophies
 
-Supported `IOS_PLATFORM` values: `OS` (device), `SIMULATOR`, `SIMULATOR64`.
+<div align="center">
 
-### Cross-compilation (using depends)
+[![trophy](https://github-profile-trophy.vercel.app/?username=marcellinuswiray&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)](https://github.com/marcellinuswiray)
 
-```bash
-make depends target=<host-triplet>
-```
+</div>
 
-For backwards-compatible builds:
-```bash
-make depends-backcompat target=<host-triplet>
-```
+---
 
-## Build Targets
+## 📝 Latest Blog Posts
 
-| Target                            | Description                          |
-|-----------------------------------|--------------------------------------|
-| `make release`                    | Release build                        |
-| `make debug`                      | Debug build                          |
-| `make release-static`             | Static release build (x86-64)        |
-| `make release-static-linux-x86_64`| Static build for Linux x86-64       |
-| `make release-static-linux-armv6` | Static build for Linux ARMv6         |
-| `make release-static-linux-armv7` | Static build for Linux ARMv7         |
-| `make release-static-linux-armv8` | Static build for Linux ARMv8         |
-| `make release-static-win64`       | Static build for Windows 64-bit      |
-| `make release-static-win32`       | Static build for Windows 32-bit      |
-| `make release-static-mac-x86_64`  | Static build for macOS x86-64        |
-| `make release-static-freebsd-x86_64` | Static build for FreeBSD x86-64  |
-| `make release-test`               | Release build + run tests            |
-| `make debug-test`                 | Debug build + run tests              |
-| `make coverage`                   | Debug build with code coverage       |
-| `make fuzz`                       | Fuzz testing build (AFL)             |
-| `make clean`                      | Clean build directory                |
+<!-- BLOG-POST-LIST:START -->
+- Coming soon...
+<!-- BLOG-POST-LIST:END -->
 
-## License
+---
 
-```
-Copyright (c) 2017-2021, Sumokoin Projects
-Copyright (c) 2014-2021, The Monero Project
-Parts originally copyright (c) 2012-2013 The Cryptonote developers
-Parts originally copyright (c) 2014 The Boolberry developers (MIT License)
-```
+## 🤝 Connect With Me
 
-Licensed under the **BSD 3-Clause License**. See [LICENSE](LICENSE) for details.
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marcellinuswiray)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcellinuswiray)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/marcellinuswiray)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Quote of the Day
+
+*"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=marcellinuswiray&color=brightgreen&style=flat-square)
+
+**Thanks for visiting! Feel free to explore my repositories and don't hesitate to reach out!**
+
+</div>
