@@ -1,126 +1,77 @@
 <div align="center">
 
-# Hi there, I'm Marcellinus Wiray 👋
+# Hi there, I'm Marcellinus Wiray
 
-### Software Engineer | Full-Stack Developer | Tech Enthusiast
+### Systems Programmer | Blockchain Developer | Cross-Platform Build Engineer
 
 [![GitHub followers](https://img.shields.io/github/followers/marcellinuswiray?style=social)](https://github.com/marcellinuswiray)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/marcellinuswiray)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Building+the+future+with+code;Open+source+enthusiast;Always+learning+new+things)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-Passionate software engineer with expertise in full-stack development, blockchain technology, and systems programming. I specialize in building high-performance, scalable applications using modern tech stacks and contribute actively to open-source projects.
+Systems programmer focused on blockchain technology and cross-platform build engineering. I work with privacy-focused cryptocurrency projects, building and maintaining multi-platform compilation toolchains for complex C/C++ codebases.
 
-- 🔭 Currently building **privacy-focused crypto solutions**, cross-platform build systems & decentralized apps
-- 🛠️ Experienced with multi-platform compilation, CMake toolchains, and secure coding practices
-- 🤝 Open to collaboration on **blockchain**, **systems software**, and **infrastructure projects**
-- 📫 Let's connect: **[marcellinuswiray@example.com](mailto:marcellinuswiray@example.com)**
-- 📍 Based in **Indonesia** | Open to remote opportunities worldwide
-- ⚡ Fun fact: I debug with `print()` before reaching for the debugger
+- Currently working on **Sumokoin** - a privacy-focused cryptocurrency forked from Monero/CryptoNote
+- Building cross-platform build systems targeting **Linux, macOS, Windows, Android, and iOS**
+- Experienced with **CMake toolchains**, **Makefile automation**, and **multi-architecture compilation** (x86-64, ARM v6/v7/v8, i686)
+- Interested in **cryptography**, **privacy tech**, and **decentralized systems**
+- Based in **Indonesia**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+### Build Systems & Toolchains
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white)
+![Make](https://img.shields.io/badge/Make-427819?style=flat&logo=gnu&logoColor=white)
+![GCC](https://img.shields.io/badge/GCC-A42E2B?style=flat&logo=gnu&logoColor=white)
+![Clang](https://img.shields.io/badge/Clang-262D3A?style=flat&logo=llvm&logoColor=white)
+
+### Platforms & Architecture
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## Current Work
+
+### Sumokoin Build System
+Multi-platform build configuration for the Sumokoin privacy-focused cryptocurrency, based on the Monero codebase.
+
+**Key highlights:**
+- **C++17 / C11** standards with security-hardened compilation flags
+- **Cross-compilation** support for 7+ target architectures (x86-64, i686, ARMv6, ARMv7, ARMv8)
+- **Multi-platform** builds: Linux, macOS, Windows (MSYS2), Android (NDK standalone toolchain), iOS (Xcode SDK)
+- **Static & dynamic linking** configurations with debug, release, and fuzz testing targets
+- **CI/CD** integration with GitHub Actions
+- **ccache** support for faster incremental builds
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
-![Marcellinus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcellinuswiray&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Marcellinus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcellinuswiray&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcellinuswiray&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcellinuswiray&layout=compact&theme=dark&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marcellinuswiray&theme=radical&hide_border=true)
-
-</div>
-
----
-
-## 🔥 Featured Projects
-
-### 🪙 Cryptocurrency & Blockchain
-- **Sumokoin Build System** - Multi-platform build configuration for privacy-focused cryptocurrency
-  - Cross-platform support (Linux, macOS, Windows, Android, iOS)
-  - CMake-based build system with extensive architecture support
-  - Security-hardened compilation with modern C++17 standards
-
-### 🌐 Web & Systems
-- Full-stack web apps, cross-compilation toolchains, and CI/CD pipeline automation
-
----
-
-## 📈 Activity Graph
-
-[![Marcellinus's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=marcellinuswiray&theme=react-dark&hide_border=true)](https://github.com/marcellinuswiray)
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=marcellinuswiray&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)](https://github.com/marcellinuswiray)
-
-</div>
-
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- 🔐 Understanding Zero-Knowledge Proofs in Blockchain Privacy
-- 🏗️ Building Cross-Platform C++ Projects with CMake: A Practical Guide
-- 🐳 Docker Multi-Stage Builds for Optimized Production Images
-- 🦀 Why I'm Learning Rust in 2026
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marcellinuswiray)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marcellinuswiray)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/marcellinuswiray)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marcellinuswiray&theme=dark&hide_border=true)
 
 </div>
 
@@ -128,6 +79,6 @@ Passionate software engineer with expertise in full-stack development, blockchai
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=marcellinuswiray&color=brightgreen&style=flat-square) • *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+![Profile Views](https://komarev.com/ghpvc/?username=marcellinuswiray&color=brightgreen&style=flat-square)
 
 </div>
