@@ -13,13 +13,14 @@
 
 ## 🚀 About Me
 
-I'm a passionate software engineer focused on building scalable applications and exploring cutting-edge technologies. I enjoy solving complex problems and contributing to open-source projects.
+Passionate software engineer with expertise in full-stack development, blockchain technology, and systems programming. I specialize in building high-performance, scalable applications using modern tech stacks and contribute actively to open-source projects.
 
-- 🔭 Currently working on innovative software solutions
-- 🌱 Continuously learning new technologies and best practices
-- 💡 Interested in blockchain, distributed systems, and modern web development
-- 🤝 Open to collaboration on interesting projects
-- 📫 Reach me at: **[your-email@example.com]**
+- 🔭 Currently developing **privacy-focused cryptocurrency solutions** and cross-platform build systems
+- 🌱 Deep diving into **distributed systems architecture**, Rust, and cloud-native technologies
+- 💡 Core interests: **Blockchain/Cryptocurrency**, **Systems Programming (C/C++/Go)**, **DevOps & CI/CD automation**
+- 🛠️ Experienced with multi-platform compilation, CMake toolchains, and secure coding practices
+- 🤝 Open to collaboration on **blockchain**, **systems software**, and **infrastructure projects**
+- 📫 Let's connect: **[marcellinuswiray@example.com](mailto:marcellinuswiray@example.com)**
 
 ---
 
