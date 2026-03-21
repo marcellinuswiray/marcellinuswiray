@@ -7,9 +7,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/marcellinuswiray?style=social)](https://github.com/marcellinuswiray)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/marcellinuswiray)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Building+the+future+with+code)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Open+source+enthusiast)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2ECC71&center=true&vCenter=true&width=435&lines=Always+learning+new+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Building+the+future+with+code;Open+source+enthusiast;Always+learning+new+things)](https://git.io/typing-svg)
 
 </div>
 
@@ -22,7 +20,9 @@ Passionate software engineer with expertise in full-stack development, blockchai
 - 🔭 Currently building **privacy-focused crypto solutions**, cross-platform build systems & decentralized apps
 - 🛠️ Experienced with multi-platform compilation, CMake toolchains, and secure coding practices
 - 🤝 Open to collaboration on **blockchain**, **systems software**, and **infrastructure projects**
-- 📫 Based in **Indonesia** | Reach me at **[marcellinuswiray@example.com](mailto:marcellinuswiray@example.com)** | Open to remote opportunities worldwide
+- 📫 Let's connect: **[marcellinuswiray@example.com](mailto:marcellinuswiray@example.com)**
+- 📍 Based in **Indonesia** | Open to remote opportunities worldwide
+- ⚡ Fun fact: I debug with `print()` before reaching for the debugger
 
 ---
 
