@@ -22,6 +22,8 @@ Systems programmer focused on blockchain technology and cross-platform build eng
 - Experienced with **CMake toolchains**, **Makefile automation**, and **multi-architecture compilation** (x86-64, ARM v6/v7/v8, i686)
 - Interested in **cryptography**, **privacy tech**, and **decentralized systems**
 - Always learning, always building
+- Passionate about **open-source contributions** and collaborative development
+- Strong advocate for **code reproducibility** and **deterministic builds**
 - Based in **Indonesia**
 
 ---
@@ -31,6 +33,8 @@ Systems programmer focused on blockchain technology and cross-platform build eng
 ### Languages
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
 ### Build Systems & Toolchains
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white)
@@ -41,9 +45,7 @@ Systems programmer focused on blockchain technology and cross-platform build eng
 ### Platforms & Architecture
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white)
 
 ### Blockchain & Crypto
 ![Monero](https://img.shields.io/badge/Monero-FF6600?style=flat&logo=monero&logoColor=white)
@@ -66,9 +68,7 @@ Multi-platform build configuration for the Sumokoin privacy-focused cryptocurren
 - **C++17 / C11** standards with security-hardened compilation flags
 - **Cross-compilation** support for 7+ target architectures (x86-64, i686, ARMv6, ARMv7, ARMv8)
 - **Multi-platform** builds: Linux, macOS, Windows (MSYS2), Android (NDK standalone toolchain), iOS (Xcode SDK)
-- **Static & dynamic linking** configurations with debug, release, and fuzz testing targets
 - **CI/CD** integration with GitHub Actions
-- **ccache** support for faster incremental builds
 
 ---
 
