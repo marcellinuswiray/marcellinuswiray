@@ -4,7 +4,7 @@
 
 ### Systems Programmer | Blockchain Developer | Cross-Platform Build Engineer
 
-*"Privacy is not about having something to hide. Privacy is about having something to protect."*
+*"The best code is the code that never has to be debugged — but let's be honest, that code doesn't exist."*
 
 [![GitHub followers](https://img.shields.io/github/followers/marcellinuswiray?style=social)](https://github.com/marcellinuswiray)
 [![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red?style=social)](https://github.com/marcellinuswiray)
@@ -69,6 +69,15 @@ Multi-platform build configuration for the Sumokoin privacy-focused cryptocurren
 - **Static & dynamic linking** configurations with debug, release, and fuzz testing targets
 - **CI/CD** integration with GitHub Actions
 - **ccache** support for faster incremental builds
+
+---
+
+## Fun Facts
+
+- I once debugged a cross-compilation issue across 7 architectures in a single weekend
+- Vim is my IDE of choice — yes, I can exit it
+- Coffee-to-code conversion rate: approximately 1 cup per 200 lines
+- I believe the best documentation is the one that actually gets written
 
 ---
 
