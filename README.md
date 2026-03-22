@@ -1,10 +1,13 @@
 <div align="center">
 
-# Hi there, I'm Marcellinus Wiray
+# Hey, I'm Marcellinus Wiray
 
 ### Systems Programmer | Blockchain Developer | Cross-Platform Build Engineer
 
+*"Privacy is not about having something to hide. Privacy is about having something to protect."*
+
 [![GitHub followers](https://img.shields.io/github/followers/marcellinuswiray?style=social)](https://github.com/marcellinuswiray)
+[![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red?style=social)](https://github.com/marcellinuswiray)
 
 </div>
 
@@ -18,6 +21,7 @@ Systems programmer focused on blockchain technology and cross-platform build eng
 - Building cross-platform build systems targeting **Linux, macOS, Windows, Android, and iOS**
 - Experienced with **CMake toolchains**, **Makefile automation**, and **multi-architecture compilation** (x86-64, ARM v6/v7/v8, i686)
 - Interested in **cryptography**, **privacy tech**, and **decentralized systems**
+- Always learning, always building
 - Based in **Indonesia**
 
 ---
@@ -41,10 +45,15 @@ Systems programmer focused on blockchain technology and cross-platform build eng
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white)
 
+### Blockchain & Crypto
+![Monero](https://img.shields.io/badge/Monero-FF6600?style=flat&logo=monero&logoColor=white)
+![CryptoNote](https://img.shields.io/badge/CryptoNote-2C3E50?style=flat&logoColor=white)
+
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white)
 
 ---
 
@@ -80,5 +89,7 @@ Multi-platform build configuration for the Sumokoin privacy-focused cryptocurren
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=marcellinuswiray&color=brightgreen&style=flat-square)
+
+*Thanks for visiting! Feel free to explore my repos and drop a star if you find something useful.*
 
 </div>
