@@ -44,6 +44,8 @@ philosophy: >
 - **Rust** for systems programming and blockchain development
 - **WebAssembly** for cross-platform runtime environments
 - Improving **CI/CD pipelines** for multi-arch builds
+- **RISC-V** architecture support for next-gen open hardware
+- **Nix** for fully reproducible and declarative build environments
 
 ---
 
@@ -186,6 +188,16 @@ release-linux-armv6/7/8  # ARM cross-compilation
 release-freebsd          # FreeBSD support
 test / fuzz              # Testing & fuzzing (AFL)
 coverage                 # Code coverage reports
+```
+
+---
+
+## Current Focus (2026)
+
+```
+  Expanding Sumokoin build support to RISC-V targets
+  Experimenting with Nix flakes for hermetic cross-compilation
+  Hardening CI/CD with reproducible build verification
 ```
 
 ---
